@@ -13,7 +13,7 @@ To write a C program to read the age of a person and determine whether he is eli
 
 ## Program:
 ```
-/*
+
 #include <stdio.h>
 int main() {
     int age;
@@ -28,7 +28,7 @@ int main() {
     return 0;
 }
  
-*/
+
 ```
 
 ## Output:
