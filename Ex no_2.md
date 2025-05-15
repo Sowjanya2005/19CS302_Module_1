@@ -15,7 +15,11 @@ To write a program to check whether the attendance is PRESENT using simple if st
 
 ## Program:
 ```
-
+/*
+Program to check whether the attendance is PRESENT using simple if statement.
+Developed by: Sowjanya A
+RegisterNumber: 212222060250  
+*/
 #include<stdio.h> 
 int main(){
 char p1; 
