@@ -14,7 +14,7 @@ To write a C program to calculate the total marks, average, and percentage of ma
 
 ## Program:
 ```
-/*
+
 #include <stdio.h>
 int main() {
  int sub1, sub2, sub3, total;
@@ -26,7 +26,7 @@ int main() {
  printf("Average : %.2f\n", average);
  return 0;
 }
-*/
+
 ```
 
 ## Output:
