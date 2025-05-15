@@ -11,8 +11,12 @@ To write a program to initialize the value as 5.8 & display the same.
 5. End.   
 ## Program:
 ```
-
- #include <stdio.h>
+/*
+Program to initialize the value as 5.8 & display the same.
+Developed by: Sowjanya A
+RegisterNumber: 212222060250
+*/
+#include <stdio.h>
 int main()
 {
     float value = 5.8;
